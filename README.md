@@ -1,6 +1,6 @@
 # NHL Team Performance Scraper
 
-A Python web scraping project that extracts historical NHL team performance data from Scrapethissite and performs structured analysis.
+A structured web scraping and data analysis pipeline that extracts historical NHL team performance data using paginated crawling and data validation. 
 
 ---
 
